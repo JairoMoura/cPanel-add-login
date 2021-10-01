@@ -7,6 +7,7 @@ Como proteger um subdomínio ou subdiretório em especifico, sem proteger todo d
 4. Para selecionar a pasta que deseja proteger cloque no "texto" nome da pasta
 5. Clique em senha protege esse diretório
 6. Preencha esses campos ou selecione um usuário ja salvo
-7. **IMPORTANTE** Se vc proteger a "public_html" vc protegera todo o domínio
-8. Caso queira proteger um subdomínio ou subdiretório em especifico, primeiro acesso o diretório depois faça a proteção
-9. Pronto sei diretorio esta protegido
+7. ⭐ Se proteger a "public_html" você protegera todo o domínio
+8. ⭐ Caso queira proteger um subdomínio ou subdiretório em especifico, primeiro acesse o diretório depois faça a proteção
+FINISH ✌
+
